@@ -49,7 +49,6 @@ const int flipTimer = 1000; // Time between two readings
 /* Globals */
 WiFiClient client;   // Wifi library
 Adafruit_IO_Client aio = Adafruit_IO_Client(client, aio_key); // Adafruit IO library
-Adafruit_IO_Feed airTemperature = aio.getFeed("air-temperature"); // Adafruit IO feed
 Adafruit_IO_Feed soilHumidity = aio.getFeed("soil-humidity"); // Adafruit IO feed
 
 void setup() { 
