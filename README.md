@@ -23,8 +23,9 @@ The list of required materials is as follows:
 * 1x - Resistor 100 kOhm
 * 1x - Thermoretractable tubing
 * 1x - 22 AWG wire
+* double sided tape
 
-**WARNING: Do not put water on your lithium ion battery otherwise it will explode. This planter is specifically designed for home use, it’s not safe for the outdoor environment.**
+**WARNING: Do not put water on your lithium ion battery otherwise it will explode. This planter is specifically designed for home use, it’s not safe for the outdoor environment. The double sided tape will avoid direct contact between the 3D print and the humidity from the soil. **
 
 To produce the planter, you only need these three tools:
 * Filament (the higher the quality, the better the outcome!) : [Print settings are here](https://www.filaments.directory/en/filaments/faberdashery/pla/orange-fizz-0-84-kg-2-85-mm#settings)
