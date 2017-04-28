@@ -1,3 +1,5 @@
+# Smart 3D printed planter
+
 ![Smart 3D printed planter](https://labs.filaments.directory/public/img/wall_planter_5.jpg "Smart 3D printed planter")
 
 Filaments.directory has teamed up with renowned 3D designer Augustin Flowalistik to create a 3D printable planter that will change the way you think about the potential of 3D printing. This functional device is equipped with an IoT module that will monitor the humidity of your plant’s soil, while also sprucing up the look of your home. 
