@@ -19,8 +19,8 @@ The humidity sensor use the [gardenbot's circuit](http://gardenbot.org/howTo/soi
 For starters, the 3D printed planter is exceptionally functional, allowing you to use your FDM 3D printer for a project that is actually useful. The planter itself has a marvelous design, and will have your friends and family begging you to tell them where you bought it. The IoT module makes the planter a smart device, and is flexible thanks to compatibility with open source hardware and software. The entire project will only take a few hours to complete, and will cost you less than $50 to complete.    
 
 The list of required materials is as follows:
-* 1x - [Adafruit 2821 Feather HUZZAH ESP8266 (loose headers)](https://goo.gl/wUOw6s)
-* 1x - [Adafruit 258 Lithium Ion Polymer Battery - 3.7v 1200mAh](https://goo.gl/4kCfL5)
+* 1x - [Adafruit 2821 Feather HUZZAH ESP8266 (loose headers) *](https://goo.gl/wUOw6s) 
+* 1x - [Adafruit 258 Lithium Ion Polymer Battery - 3.7v 1200mAh *](https://goo.gl/4kCfL5)
 * 1x - Resistor 100 Ohm
 * 1x - Resistor 100 kOhm
 * 1x - Thermoretractable tubing
@@ -51,3 +51,5 @@ The ultimate goal of this project is to show the functional capabilities of desk
 If you’re wondering what filament will work best for your needs, head to Filaments.directory and scroll through our informative database. 
 
 We want to send a special thanks to Agustin Flowalistik for his help on this project. [Check out more of his design work on his website.](http://www.flowalistik.com/)
+
+\* Disclaimer: If you buy things on Amazon through the links, Filaments.directory will receive a small fee. The best part is that you are not paying anything extra when using them! This will help us to sustain the project.
