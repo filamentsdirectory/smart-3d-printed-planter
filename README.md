@@ -40,6 +40,7 @@ Here are the steps to creating your own 3D printable smart planter:
 - Download the STL file and print the planter
 - Install the Arduino platform and dependencies (if you haven’t done this already)
 - Change the WiFi access and Adafruit API in the source code provided on GitHub
+- Solder the wires/components. Schematics will be added soon.
 - Program the electronics (It's pretty similar to https://learn.adafruit.com/adafruit-io-basics-esp8266-arduino/using-arduino-ide)
 - Stick the electronics on the back of the 3D printed planter
 - Enjoy your new functional IoT device!
