@@ -34,6 +34,8 @@ To produce the planter, you only need these three tools:
 * FDM 3D printer
 * Soldering Iron
 
+![How to print](https://labs.filaments.directory/public/img/wall_planter_6.jpg "How to print")
+
 Here are the steps to creating your own 3D printable smart planter:
 - Download the STL file and print the planter
 - Install the Arduino platform and dependencies (if you haven’t done this already)
