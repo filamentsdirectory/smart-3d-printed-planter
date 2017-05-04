@@ -15,6 +15,7 @@ The design will be free to download (under [Creative Commons CC BY-NC-SA 4.0](ht
 The humidity sensor use the [gardenbot's circuit](http://gardenbot.org/howTo/soilMoisture/) : 
 
 ![Moisture sensor](http://gardenbot.org/howTo/soilMoisture/how-to_moisture-sensor_small.png "Moisture sensor")
+![Moisture sensor schematic](http://gardenbot.org/howTo/soilMoisture/soilMoisture_localCircuit_w-flip-flop_small.png "Moisture sensor schematic")
 
 For starters, the 3D printed planter is exceptionally functional, allowing you to use your FDM 3D printer for a project that is actually useful. The planter itself has a marvelous design, and will have your friends and family begging you to tell them where you bought it. The IoT module makes the planter a smart device, and is flexible thanks to compatibility with open source hardware and software. The entire project will only take a few hours to complete, and will cost you less than $50 to complete.    
 
